@@ -1,0 +1,23 @@
+Needs:
+
+See all tour guides expected on a day, organized by slot
+Ability to track attendance/report on it whenever necessary, by guide and by slot
+Ability to manage switches - One guide covering for another on a specific day
+
+
+Python server side
+- picks up config information from csvs in the directory
+        - slot names
+        - tour guide names and their slots
+        - tour guide slots must match slot names
+
+- how it would work:
+        - figure out which day it is
+        - pick up which tour guides are supposed to show up for that day
+        - each tour guide would have a "came, gave, did not come" button next to them
+        - whenever "submit" is clicked on a slot/day, add to two files - one for the tg specific attendance,
+        one for the day/slot wise attendance.
+
+- what the attendance csv would look like (columns)
+        - name
+        - 

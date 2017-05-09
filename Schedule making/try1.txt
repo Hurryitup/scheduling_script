@@ -1,0 +1,101 @@
+Monday Morning
+[85    Emily Kibbe 
+Name: Name, dtype: object, 28    Melanie Nettler
+Name: Name, dtype: object, 5    Olivia  Ladd-Luthringshauser
+Name: Name, dtype: object, 22    Alex Brodeur
+Name: Name, dtype: object, 58    Sarah Tessler
+Name: Name, dtype: object]
+Monday Afternoon
+[21    Shaan  Merchant
+Name: Name, dtype: object, 32    Anthony Benja-Athon
+Name: Name, dtype: object, 44    Maia Tarnas
+Name: Name, dtype: object, 33    Risa Goldberg
+Name: Name, dtype: object]
+Tuesday Morning
+[4    Charlie Zhen
+Name: Name, dtype: object, 13    Jeffrey Wu
+Name: Name, dtype: object, 39    Kelly Burk
+Name: Name, dtype: object, 45    Mia Marrazza
+Name: Name, dtype: object]
+Tuesday Afternoon
+[61    Elana DeSantis
+Name: Name, dtype: object, 56    Charlotte Lenz
+Name: Name, dtype: object, 14    Sarah Carty
+Name: Name, dtype: object, 10    Anna Tolette
+Name: Name, dtype: object, 72    Isabel Javit
+Name: Name, dtype: object, 55    Gabrielle Fenaroli
+Name: Name, dtype: object]
+Wednesday Morning
+[27    Alex Aronson
+Name: Name, dtype: object, 11    Aaron Watts
+Name: Name, dtype: object, 2    Bobby Lovitch
+Name: Name, dtype: object, 53    Shoshana Goldman 
+Name: Name, dtype: object, 76    Sanya Pradhan
+Name: Name, dtype: object]
+Wednesday Afternoon
+[15    Nicole Nadwodny
+Name: Name, dtype: object, 38    Kyle Blacklock 
+Name: Name, dtype: object, 46    Julia Press
+Name: Name, dtype: object, 77    Stuart Montgomery
+Name: Name, dtype: object, 36    Kendra Nowak
+Name: Name, dtype: object, 83    Avery Spratt
+Name: Name, dtype: object]
+Thursday Morning
+[12    Tyler McCullough
+Name: Name, dtype: object, 16    Noah Weinflash
+Name: Name, dtype: object, 1    Jeremy Caldwell
+Name: Name, dtype: object, 88    Alexandra Scheman
+Name: Name, dtype: object, 35    Bibi Lichauco
+Name: Name, dtype: object, 60    Suruchi Devanahalli
+Name: Name, dtype: object, 71    Alizee Weber
+Name: Name, dtype: object, 50    Annie  Bricker
+Name: Name, dtype: object, 92    Kyle Paul
+Name: Name, dtype: object]
+Thursday Afternoon
+[70    Patricia Blumeris
+Name: Name, dtype: object, 65    Lisa Meehan
+Name: Name, dtype: object, 57    Jennifer  Berghuis 
+Name: Name, dtype: object, 43    Amanda Giles
+Name: Name, dtype: object, 67    Aastha Chadha
+Name: Name, dtype: object]
+Friday Morning
+[23    Evan Lorey
+Name: Name, dtype: object, 66    Sara Stokesbury
+Name: Name, dtype: object, 34    Katie Rogers
+Name: Name, dtype: object, 91    Lilian Gjertsson
+Name: Name, dtype: object, 79    drew abatemarco
+Name: Name, dtype: object, 80    Joaquin Bustamante
+Name: Name, dtype: object, 19    Nick Cosentino
+Name: Name, dtype: object, 74    Chista Irani
+Name: Name, dtype: object]
+Friday Afternoon
+[18    Sydney Ladner
+Name: Name, dtype: object, 47    Michelle (Misha) Carlson
+Name: Name, dtype: object, 87    Rachel Sobel
+Name: Name, dtype: object, 3    Kristin Reeves
+Name: Name, dtype: object, 20    Adam Kercheval
+Name: Name, dtype: object, 89    Nina Kravetz
+Name: Name, dtype: object, 90    Sonja Hartmann
+Name: Name, dtype: object, 9    Adam Rapfogel
+Name: Name, dtype: object]
+Saturday Morning
+[69    Zach Essig
+Name: Name, dtype: object, 29    Saba Khandani
+Name: Name, dtype: object, 73    Kelsey Kendzulak
+Name: Name, dtype: object, 48    Nath Samaratunga
+Name: Name, dtype: object, 54    Pamela Toscano
+Name: Name, dtype: object]
+Saturday Afternoon
+[75    Claire Gelbart
+Name: Name, dtype: object, 51    Carolyn Margulies
+Name: Name, dtype: object, 0    Camille Carlisle
+Name: Name, dtype: object, 78    Erin Sifre
+Name: Name, dtype: object, 30    Alexa Weinstein
+Name: Name, dtype: object, 37    Zoe Miller
+Name: Name, dtype: object, 59    Vitoria Fonseca
+Name: Name, dtype: object]
+
+Not chosen
+
+1
+['Keith Henzer']
